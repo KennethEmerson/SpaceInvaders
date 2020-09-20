@@ -4,11 +4,11 @@ A simple game for the BBC microbit embedded system written in C++
 https://www.microbit.org/
 
 how the game works:
-Left button: moves player up 
-Right button: mover player down 
-both buttons: player shoot 
-Left button long push: save game (includes enemy lifes and position, player position, lifes and score) 
-Right button long push: load game.
+- Left button: moves player up 
+- Right button: mover player down 
+- both buttons: player shoot 
+- Left button long push: save game (includes enemy lifes and position, player position, lifes and score) 
+- Right button long push: load game.
 
 
 the header file contains various parameters which allow to set: 
